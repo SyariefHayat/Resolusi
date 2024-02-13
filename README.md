@@ -10,3 +10,4 @@ Repository untuk menyimpan rencana saya di tahun 2024
      - Weather App
 2. Mulai Mempelajari Node js
 3. Membuat Website Film
+4. Menguasai Figma
